@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a co-editing engine for developers [@LiveShare](https://visualstudio.microsoft.com/services/live-share/)
+- 🔭 I’m currently working on a co-editing engine for developers - [@LiveShare](https://visualstudio.microsoft.com/services/live-share/)
 - 🌱 I’m currently learning more about engineering system design and management
 - 💬 Ask me about iOS security, Live Share, Codespaces
 - 📫 How to reach me [@LinkedIn](https://www.linkedin.com/in/oleg-demchenko-1b649697/)
